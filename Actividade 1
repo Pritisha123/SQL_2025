@@ -1,0 +1,9 @@
+clientes-Faturas
+um cliente pode ter varias fatura(1-n)
+um fatura pertence a 1cliente(1-1).
+
+Funcionarios -clientes
+varias funcionarios tem varios clientes (n-n).
+
+produtos -Faturas
+Varios produtos pertencem a uma fatura.
